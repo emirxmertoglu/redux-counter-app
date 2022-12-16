@@ -1,7 +1,7 @@
 {
-  "name": "counter-app",
+  "name": "redux-counter-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "A counter app via Redux Toolkit",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
